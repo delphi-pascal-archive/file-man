@@ -1,0 +1,51 @@
+[Config]
+Relative path=1
+Compilator.FileName=C:\Program Files\Borland\Delphi7\Bin\Dcc32.exe
+Compilator.PSPar=%Name%%Ext% -E"D:\OUTPUT_DIRECTORY" -N"D:\OUTPUT_DIRECTORY"
+Compilator.DefaultDir=%Dir%
+Compilator.SaveAll=1
+Compilator.Capture=1
+Compilator.HideOutput=1
+DefaultCPIndex=1
+LogtoEnd=1
+DontOpen=0
+FileFormat=0
+[Project tree]
+PSPad
+	+Project
+		FileMan.dpr
+	+Forms
+		Forms\FileAttr.pas
+		Forms\Main.pas
+		Forms\Progress.pas
+		Forms\RequestCopyFlags.pas
+		Forms\RequestDrv.pas
+		Forms\Search.pas
+	+Units
+		CmControl.pas
+		CmGrid.pas
+		CommonFolders.pas
+		cxDrive10.pas
+		defs.pas
+		Dim.pas
+		DimConst.pas
+		FLConst.pas
+		FLFunctions.pas
+		FLGrid.pas
+		FLMaskEx.pas
+		FLMenu.pas
+		FLMessages.pas
+		FLPerform.pas
+		FLThreads.pas
+		FLTypes.pas
+		FS.pas
+		fsplugin.pas
+		PSPad.ppr
+		StrutilsX.pas
+[Open project files]
+[Selected Project Files]
+Main=FileMan.dpr
+Selected=FLGrid.pas
+[FLGrid.pas]
+TopLine=12
+Caret=25,26

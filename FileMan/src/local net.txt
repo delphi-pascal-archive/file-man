@@ -1,0 +1,59 @@
+локальна мережа кабінету 27 - дані з тесту демо-програми для модуля Netvorks.pas by Dimka Maslov
+
+11.04.06
+
+box1:
+
+1 (1)
+Administrator
+C01
+C02
+C03
+C04
+C05
+C06
+C07
+C08
+C09
+C10
+
+
+box2:
+
+1 (1) [Unknown]
+Administrator [192.168.0.1]
+C01 [192.168.0.101]
+C02 [192.168.0.102]
+C03 [192.168.0.103]
+C04 [192.168.0.104]
+C05 [192.168.0.105]
+C06 [192.168.0.106]
+C07 [192.168.0.107]
+C08 [192.168.0.108]
+C09 [192.168.0.109]
+C10 [192.168.0.110]
+
+
+box3 (if com. name = Administrator):
+
+CanonLAS ia Administrator
+Alcohol ia Administrator
+Sikora ia Administrator
+Myth (W) ia Administrator
+FLASH-disk ia Administrator
+LAB_ROB ia Administrator
+INP_4 ia Administrator
+MF-13 ia Administrator
+Eaa.?iaioe ia Administrator
+promt ia Administrator
+Temp ia Administrator
+Lab7 ia Administrator
+BASES ia Administrator
+lab ia Administrator
+Rizne (D) ia Administrator
+Documentation_2005_2006 ia Administrator
+Eaa_noao ia Administrator
+OOO ia Administrator
+CANON ia Administrator
+1211 ia Administrator
+
